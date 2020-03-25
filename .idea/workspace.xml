@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="247f2d23-5074-47c3-987a-831dcf58ed8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/part_i_python_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/part_i_python_basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
       <updated>1584723971936</updated>
       <workItem from="1584723973509" duration="489000" />
       <workItem from="1584919693694" duration="1625000" />
+      <workItem from="1585138359435" duration="45000" />
     </task>
     <servers />
   </component>
@@ -52,9 +53,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2093" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1584919694351">
-      <screen x="1440" y="-19" width="1920" height="993" />
+    <state x="490" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1585138359892">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="490" y="314" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-19.1920.993@0.23.1440.877" timestamp="1585138359892" />
     <state x="2093" y="310" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-19.1920.993@1440.-19.1920.993" timestamp="1584919694351" />
   </component>
 </project>

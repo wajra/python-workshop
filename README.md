@@ -8,6 +8,7 @@ System/Python library requirements
 * Matplotlib
 * Pandas
 
+A recording of the workshop ca be found at [this](https://drive.google.com/drive/folders/1SwEw4HC-er85XyeAQpExFZ-trHqmkdwR?usp=sharing) link.  
 This is a 1 hour workshop that aims to introduce a user to basic Python as well as a soft introduction to the SciPy ecosystem.  
 After going through these notebooks, I would suggest going in depth on specific scientific Python libraries.  
 Here are some tutorial for each library I have found useful in the past.  
