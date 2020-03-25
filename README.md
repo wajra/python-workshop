@@ -1,6 +1,6 @@
 # Python workshop
 
-System/Python library requirements  
+Python library requirements  
 * Python version 3.4+ (I would advise an Anaconda python installation)
 * Jupyter notebook
 * Numpy
@@ -8,7 +8,7 @@ System/Python library requirements
 * Matplotlib
 * Pandas
 
-A recording of the workshop ca be found at [this](https://drive.google.com/drive/folders/1SwEw4HC-er85XyeAQpExFZ-trHqmkdwR?usp=sharing) link.  
+A recording of the workshop can be found at [this](https://drive.google.com/drive/folders/1SwEw4HC-er85XyeAQpExFZ-trHqmkdwR?usp=sharing) link.  
 This is a 1 hour workshop that aims to introduce a user to basic Python as well as a soft introduction to the SciPy ecosystem.  
 After going through these notebooks, I would suggest going in depth on specific scientific Python libraries.  
 Here are some tutorial for each library I have found useful in the past.  
@@ -18,7 +18,7 @@ Here are some tutorial for each library I have found useful in the past.
 4. Pandas in depth - [Daniel Chen in SciPy 2019](https://www.youtube.com/watch?v=5rNu16O3YNE)
 
 Also nothing beats going through official documentation for any language or library. 
-Also Wes McKinney's old tutorials are still useful. Though they do show some outdated methods for Pandas. His [book](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K) is a wonderful introduction to using Python for data analysis.  
+Wes McKinney's old tutorials are still useful, even though they do show some outdated methods for Pandas. His [book](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K) is a wonderful introduction to using Python for data analysis.  
 
 Have fun!!!
 
