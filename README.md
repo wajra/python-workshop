@@ -8,6 +8,7 @@ Python library requirements
 * Matplotlib
 * Pandas
 
+To setup a Python installation with Anaconda, please follow the guide I've uploaded [here](https://github.com/wajra/python-workshop/blob/master/Installing%20Python%20and%20PyCharm%20sheet.pdf).  
 A recording of the workshop can be found at [this](https://drive.google.com/drive/folders/1SwEw4HC-er85XyeAQpExFZ-trHqmkdwR?usp=sharing) link.  
 This is a 1 hour workshop that aims to introduce a user to basic Python as well as a soft introduction to the SciPy ecosystem.  
 After going through these notebooks, I would suggest going in depth on specific scientific Python libraries.  
